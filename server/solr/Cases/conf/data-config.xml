@@ -1,0 +1,11 @@
+<dataConfig>
+  <dataSource type="JdbcDataSource"
+    driver="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+    url="jdbc:sqlserver://"
+    user=""
+    password=""/>
+    <document>
+      <entity>
+      </entity>
+    </document>
+</dataConfig>
